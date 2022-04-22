@@ -1,0 +1,63 @@
+## List of a few countries for Word Guesser
+## Feel free to add more countries to the list!
+## Version: 1.0
+## Author: GregorGott
+##
+## Countries s.w. A
+Algeria
+Argentina
+Austriala
+Austria
+## Countries s.w. B
+Belgium
+## Countries s.w. C
+Chile
+## Countries s.w. D
+Denmark
+## Countries s.w. E
+Egypt
+## Countries s.w. F
+Finnland
+France
+## Countries s.w. G
+Georgia
+Germany
+Greenland
+## Countries s.w. H
+Hungary
+## Countries s.w. I
+India
+Ireland
+Italy
+## Countries s.w. J
+Japan
+## Countries s.w. K
+## Countries s.w. L
+Lichtenstein
+Luxembourg
+## Countries s.w. M
+Mexiko
+## Countries s.w. N
+Netherlands
+New Zealand
+Norway
+## Countries s.w. P
+Poland
+Portugal
+## Countries s.w. Q
+## Countries s.w. R
+Russia
+## Countries s.w. S
+South Africa
+South Korea
+Spain
+## Countries s.w. T
+Taiwan
+Turkey
+## Countries s.w. U
+United Kingdom
+United States
+## Countries s.w. V
+## Countries s.w. W
+## Countries s.w. Y
+## Countries s.w. Z

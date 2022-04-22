@@ -1,0 +1,65 @@
+## List of animals for Word Guesser
+## Feel free to add more animals to the list
+## Version: 1.0
+## Author: GregorGott
+##
+## Animals with A
+Alligator
+Albatross
+## Animals with B
+Bear
+Bee
+Bumblebee
+Bird
+## Animals with C
+Cat
+Coral
+## Animals with D
+Deer
+Dog
+Dodo
+Duck
+## Animals with E
+Eagle
+Elk
+## Animals with F
+Falcon
+Fish
+Fox
+Frog
+## Animals with G
+Goat
+Gorilla
+Goldfish
+## Animals with H
+Hamster
+Horse
+## Animals with J
+Jaguar
+Jellyfish
+## Animals with K
+Koala
+Kiwi
+## Animals with L
+Lemming
+Leopard
+Lion
+## Animals with P
+Pig
+Puma
+## Animals with R
+Rabbit
+Rat
+## Animals with S
+Seal
+Snail
+Spider
+Stork
+## Animals with T
+Tiger
+## Animals with W
+Walrus
+Wolf
+Worm
+## Animals with Z
+Zebra
