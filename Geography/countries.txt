@@ -1,17 +1,19 @@
 ## List of a few countries for Word Guesser
 ## Feel free to add more countries to the list!
-## Version: 1.0
+## Compatible with Word Guesser 1.0.0 Beta 3 or newer
+## Version: 1.1
 ## Author: GregorGott
-##
+
 ## Countries s.w. A
 Algeria
 Argentina
-Austriala
+Australia
 Austria
 ## Countries s.w. B
 Belgium
 ## Countries s.w. C
 Chile
+Czech Republic
 ## Countries s.w. D
 Denmark
 ## Countries s.w. E
@@ -51,10 +53,12 @@ Russia
 South Africa
 South Korea
 Spain
+Switzerland
 ## Countries s.w. T
 Taiwan
 Turkey
 ## Countries s.w. U
+Ukraine
 United Kingdom
 United States
 ## Countries s.w. V

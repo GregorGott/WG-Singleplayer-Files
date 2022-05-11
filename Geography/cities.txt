@@ -1,0 +1,52 @@
+## List of a few cities for Word Guesser
+## Feel free to add more cities to the list!
+## Compatible with Word Guesser 1.0.0 Beta 3 or newer
+## Version: 1.0
+## Author: GregorGott
+
+## Cities s.w. A
+Amsterdam
+Athens
+## Cities s.w. B
+Berlin
+Brussels
+## Cities s.w. C
+Cairo
+Copenhagen
+## Cities s.w. D
+Dublin
+## Cities s.w. E
+## Cities s.w. F
+## Cities s.w. G
+## Cities s.w. H
+Helsinki
+## Cities s.w. I
+## Cities s.w. J
+## Cities s.w. K
+Kiew
+## Cities s.w. L
+Lisbon
+London
+Luxembourg
+## Cities s.w. M
+Madrid
+Moscow
+## Cities s.w. N
+## Cities s.w. O
+## Cities s.w. P
+Paris
+Prague
+## Cities s.w. Q
+## Cities s.w. R
+Rome
+## Cities s.w. S
+Stockholm
+## Cities s.w. T
+## Cities s.w. U
+## Cities s.w. V
+## Cities s.w. W
+Warsaw
+Washington DC
+## Cities s.w. X
+## Cities s.w. Y
+## Cities s.w. Z

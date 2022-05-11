@@ -1,8 +1,9 @@
 ## List of animals for Word Guesser
 ## Feel free to add more animals to the list
+## Compatible with Word Guesser 1.0.0 Beta 3 or newer
 ## Version: 1.0
 ## Author: GregorGott
-##
+
 ## Animals with A
 Alligator
 Albatross
